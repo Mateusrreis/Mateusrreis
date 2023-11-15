@@ -6,7 +6,7 @@
 <br/>
 
 Sou desenvolvedor :computer: a mais de 5 anos 
-atuando com foco principalmente no backEnd :ok_hand: :
+atuando com foco principalmente no BackEnd :ok_hand::
 
 :point_right: Utilizando  C# e .Net Core e .Net Framework, NestJs, Node.Js, Typescript, Javascript
 
