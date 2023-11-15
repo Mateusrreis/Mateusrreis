@@ -1,6 +1,6 @@
-Ola,
+Ola tudo bem?
 
-me chamo Matheus 😀, sou desenvolvedor :computer: a mais de 5 anos 
+Me chamo Matheus 😀, sou desenvolvedor :computer: a mais de 5 anos 
 atuando com foco principalmente no backEnd :ok_hand: :
 
 :point_right: Utilizando  C# e .Net Core e .Net Framework, NestJs, Node.Js, Typescript, Javascript
