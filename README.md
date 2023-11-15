@@ -21,5 +21,3 @@ atuando com foco principalmente no backEnd :ok_hand: :
 
 :point_right: Experiencia com DDD e TDD, Hexagonal.
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mateusrreis&show_icons=true&theme=transparent)
