@@ -1,6 +1,7 @@
-Ola tudo bem?
+<h1>Olá tudo bem? Me chamo Matheus 😀.</h1>
 
-Me chamo Matheus 😀, sou desenvolvedor :computer: a mais de 5 anos 
+
+Sou desenvolvedor :computer: a mais de 5 anos 
 atuando com foco principalmente no backEnd :ok_hand: :
 
 :point_right: Utilizando  C# e .Net Core e .Net Framework, NestJs, Node.Js, Typescript, Javascript
@@ -19,3 +20,6 @@ atuando com foco principalmente no backEnd :ok_hand: :
 
 
 :point_right: Experiencia com DDD e TDD, Hexagonal.
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mateusrreis&show_icons=true&theme=transparent)
